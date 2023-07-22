@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
-import { useTable, useFilters } from 'react-table';
 import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
