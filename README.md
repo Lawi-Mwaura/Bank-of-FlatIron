@@ -1,21 +1,11 @@
-                                 # Bank-of-FlatIron
+                                                # Bank-of-FlatIron
 # Project Description
 Bank of FlatIron is a web application built with React that allows users to manage their transactions. It provides features for adding new transactions, filtering transactions by description, and displaying the transaction data in a tabular format.
 
 # Project Structure
 The project structure is organized as follows:
 
-BANK-OF-FLATIRON/bank-of-flatiron
-
-  ├── src/
-  │   ├── App.jsx
-  │   ├── TransactionForm.jsx
-  │   ├── SearchBar.jsx
-  │   ├── styles.css
-  │   └── index.css
-  ├── package.json
-  ├── package-lock.json
-  └── README.md
+#BANK-OF-FLATIRON
 
 1. src/: This directory contains all the React components and CSS files used in the application.
 
