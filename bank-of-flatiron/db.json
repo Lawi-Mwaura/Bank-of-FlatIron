@@ -97,7 +97,34 @@
       "category": "Food",
       "amount": "3000",
       "id": 14
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": null,
+      "id": 15
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": null,
+      "id": 16
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": null,
+      "id": 17
+    },
+    {
+      "date": "2023-12-30",
+      "description": "Uber",
+      "category": "Transportation",
+      "amount": 5000,
+      "id": 18
     }
   ]
- }
- 
+}
