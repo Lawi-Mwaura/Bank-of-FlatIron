@@ -7,24 +7,24 @@ The project structure is organized as follows:
 
 #BANK-OF-FLATIRON
 
-1. src/: This directory contains all the React components and CSS files used in the application.
+1. src/: This directory contains all the React components used in the application.
 
-2. App.jsx: The main component that renders the TransactionForm, SearchBar, and Transaction Table.
+2. App.jsx: The main component that renders the Bank of FlatIron
 
 3. TransactionForm.jsx: Component for adding new transactions.
 
 4. SearchBar.jsx: Component for filtering transactions based on description.
 
-5. styles.css: CSS file for custom styles.
+5. TransactionTable.jsx: component for creating the table.
 
-6. index.css: Default CSS file created by React.
+6. BankApp.jsx: component for hosting all the functions for transactions, search, table.
 
 # Dependencies
 The FlatIron project uses the following dependencies:
 
 1. react: JavaScript library for building user interfaces.
 
-2. axios: Promise-based HTTP client for making API requests.
+2. NPM : Node packet manager used for executing Javascript code outside a browser. 
 
 3. react-table: A library for creating tables in React.
 
